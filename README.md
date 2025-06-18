@@ -26,14 +26,14 @@
 
 - 💬 Ask me about **JAVA**
 
-- 📫 How to reach me **maheeshaliyanage999@gmail.com**
+- 📫 How to reach me **dasuniuthpala2002@gmail.com**
 <br>
 <br>
 
 ### 🛠 &nbsp;Tech Stack
 <br>
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -77,7 +77,9 @@
 <h2><i>Let's Connect</i></h2>
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/maheesha-liyanage-6a634b320/">
+    <a href="https://www.linkedin.com/in/dasuni-uthpala-893719266
+
+">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a title="maheeshaliyanage999@gmail.com" href="mailto:maheeshaliyanage999@gmail.com">
