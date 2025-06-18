@@ -57,38 +57,3 @@
 
 <br>
 <br>
-<h2><i>My Stats</i></h2>
-
-<p align="center">
-<img width="375px" src="https://github-readme-stats.vercel.app/api?username=dasuniuthpala&theme=light&show_icons=true&count_private=true" />
-
-<img width="375px" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dasuniuthpala&theme=light&hide_border=false" /> 
-</p>
-<p align="center">
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dasuniuthpala&theme=light&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-</p>
- <p align="left" >
-      <img
-          src="https://github-profile-trophy.vercel.app/?username=dasuniuthpala"
-          alt="dasuniuthpala"
-      />
-    </p>
-<br>
-<h2><i>Let's Connect</i></h2>
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/dasuni-uthpala-893719266
-
-">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a title="dasuniuthpala2002@gmail.com" href="dasuniuthpala2002@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?&style=flat-square&logo=gmail&logoColor=white" alt="dasuniuthpala2002@gmail.com" />
-    </a>
-</p>
-<br>
-
-
-<!-- RAINBOW LINE TOP -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
