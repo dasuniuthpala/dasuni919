@@ -60,17 +60,17 @@
 <h2><i>My Stats</i></h2>
 
 <p align="center">
-<img width="375px" src="https://github-readme-stats.vercel.app/api?username=maheesha999&theme=light&show_icons=true&count_private=true" />
+<img width="375px" src="https://github-readme-stats.vercel.app/api?username=dasuniuthpala&theme=light&show_icons=true&count_private=true" />
 
-<img width="375px" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=maheesha999&theme=light&hide_border=false" /> 
+<img width="375px" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dasuniuthpala&theme=light&hide_border=false" /> 
 </p>
 <p align="center">
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=maheesha999&theme=light&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dasuniuthpala&theme=light&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 </p>
  <p align="left" >
       <img
-          src="https://github-profile-trophy.vercel.app/?username=maheesha999"
-          alt="maheesha999"
+          src="https://github-profile-trophy.vercel.app/?username=dasuniuthpala"
+          alt="dasuniuthpala"
       />
     </p>
 <br>
@@ -82,8 +82,8 @@
 ">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a title="maheeshaliyanage999@gmail.com" href="mailto:maheeshaliyanage999@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?&style=flat-square&logo=gmail&logoColor=white" alt="maheeshaliyanage999@gmail.com" />
+    <a title="dasuniuthpala2002@gmail.com" href="dasuniuthpala2002@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?&style=flat-square&logo=gmail&logoColor=white" alt="dasuniuthpala2002@gmail.com" />
     </a>
 </p>
 <br>
